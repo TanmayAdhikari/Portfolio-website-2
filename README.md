@@ -8,8 +8,8 @@ Claude Design handoff (`Portfolio.dc.html`).
 
 ```sh
 npm install
-npm run dev    
-npm run build   
+npm run dev      # http://localhost:5173
+npm run build    # production bundle in dist/
 ```
 
 ## Structure
