@@ -1,5 +1,7 @@
 # Tanmay Adhikari — Portfolio
 
+**Live:** [tanmayadhikari.vercel.app](https://tanmayadhikari.vercel.app/)
+
 Personal portfolio for Tanmay Adhikari (Applied AI/ML Engineer), styled as a
 Claude-app-like chat interface. Implemented in React 18 + Vite from the
 Claude Design handoff (`Portfolio.dc.html`).
